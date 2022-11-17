@@ -1,6 +1,6 @@
  eCommerce-Web-Scraping
 
 What was the biggest challenge of scraping the web site?
-    I am still having trouble getting multiple rows and pages to scrape. Currently only scraping the first row.
+    Initially I was having issues getting multiple rows and pages to scrape due to an accept cookies pop-up.
 What insight, if any, did you gain from the analysis and visualization of the laptop data?
-    No insight gained with a small amount of data. The three laptops that scraped all had the same number of reviews and different prices. Unable to determine any connection at this time.
+    After analyzing the laptop data, there is no connection between the number of reviews and price.
